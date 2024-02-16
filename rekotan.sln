@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rekotan", "rekotan.vcxproj", "{902FAC92-ED27-4C95-AE32-C97E58BE1972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{902FAC92-ED27-4C95-AE32-C97E58BE1972}.Debug|Win32.ActiveCfg = Debug|Win32
+		{902FAC92-ED27-4C95-AE32-C97E58BE1972}.Debug|Win32.Build.0 = Debug|Win32
+		{902FAC92-ED27-4C95-AE32-C97E58BE1972}.Release|Win32.ActiveCfg = Release|Win32
+		{902FAC92-ED27-4C95-AE32-C97E58BE1972}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A461FF66-BFC3-42AA-B047-620503B06FFD}
+	EndGlobalSection
+EndGlobal
